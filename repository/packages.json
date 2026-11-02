@@ -1,0 +1,112 @@
+[
+  {
+    "package": "syn-dirstat",
+    "version": "1.0.0-0001",
+    "dsm_min_ver": "7.0-40000",
+    "name": "SynDirStat",
+    "desc": "Free, open-source native Synology DSM 7 storage analysis application inspired by WinDirStat, WizTree, SequoiaView, and SpaceSniffer. Features high-speed scanning, squarified cushion treemaps, and historical snapshot comparisons.",
+    "link": "https://cwmoriarty.github.io/cpan.zip/packages/syndirstat/syn-dirstat-all-1.0.0.spk",
+    "fallback_link": "https://github.com/cwmoriarty/cpan.zip/releases/download/v1.0.0/syn-dirstat-all-1.0.0.spk",
+    "md5": "8bc68f71d3bbcd07e8e4749ee651a58e",
+    "sha256": "154cf33d25e850b898f7a0c6a7e9f440cb23024c5a4c5e81bc0c3c2f79ae929e",
+    "size": 4763136,
+    "icon": "https://cwmoriarty.github.io/cpan.zip/packages/syndirstat/icon_256.png",
+    "thumbnail": [
+      "https://cwmoriarty.github.io/cpan.zip/packages/syndirstat/icon_256.png"
+    ],
+    "maintainer": "cwmoriarty",
+    "maintainer_url": "https://github.com/cwmoriarty/cpan.zip",
+    "distributor": "cwmoriarty",
+    "distributor_url": "https://cwmoriarty.github.io/cpan.zip/",
+    "changelog": "Initial release of SynDirStat with squarified cushion treemaps, SQLite historical scan diffing, and DSM 7 native integration.",
+    "type": 0,
+    "category": "Utilities",
+    "beta": false,
+    "conflictpkgs": "",
+    "deppkgs": "",
+    "quarantine": false,
+    "arch": [
+      "x86_64",
+      "r1000",
+      "v1000",
+      "broadwell",
+      "broadwellnk",
+      "apollolake",
+      "geminilake",
+      "denverton",
+      "arm64",
+      "rtd1296",
+      "rtd1619b",
+      "all"
+    ]
+  },
+  {
+    "package": "syn-dirstat",
+    "version": "1.0.0-0001",
+    "dsm_min_ver": "7.0-40000",
+    "name": "SynDirStat (x86_64)",
+    "desc": "SynDirStat 64-bit x86 optimized binary for Intel and AMD Synology NAS servers.",
+    "link": "https://cwmoriarty.github.io/cpan.zip/packages/syndirstat/syn-dirstat-x86_64-1.0.0.spk",
+    "fallback_link": "https://github.com/cwmoriarty/cpan.zip/releases/download/v1.0.0/syn-dirstat-x86_64-1.0.0.spk",
+    "md5": "0b4a10b45f06f0ed8ef99d0d26f816aa",
+    "sha256": "4db3a03d804e7dbab62b1065a6bc99215e269481834da8e1118bbc4b3514e8e9",
+    "size": 4763136,
+    "icon": "https://cwmoriarty.github.io/cpan.zip/packages/syndirstat/icon_256.png",
+    "thumbnail": [
+      "https://cwmoriarty.github.io/cpan.zip/packages/syndirstat/icon_256.png"
+    ],
+    "maintainer": "cwmoriarty",
+    "maintainer_url": "https://github.com/cwmoriarty/cpan.zip",
+    "distributor": "cwmoriarty",
+    "distributor_url": "https://cwmoriarty.github.io/cpan.zip/",
+    "changelog": "Initial release for x86_64.",
+    "type": 0,
+    "category": "Utilities",
+    "beta": false,
+    "conflictpkgs": "",
+    "deppkgs": "",
+    "quarantine": false,
+    "arch": [
+      "x86_64",
+      "r1000",
+      "v1000",
+      "broadwell",
+      "broadwellnk",
+      "apollolake",
+      "geminilake",
+      "denverton"
+    ]
+  },
+  {
+    "package": "syn-dirstat",
+    "version": "1.0.0-0001",
+    "dsm_min_ver": "7.0-40000",
+    "name": "SynDirStat (ARM64)",
+    "desc": "SynDirStat 64-bit ARM optimized binary for Realtek and ARM-based Synology NAS servers.",
+    "link": "https://cwmoriarty.github.io/cpan.zip/packages/syndirstat/syn-dirstat-arm64-1.0.0.spk",
+    "fallback_link": "https://github.com/cwmoriarty/cpan.zip/releases/download/v1.0.0/syn-dirstat-arm64-1.0.0.spk",
+    "md5": "a7ae2e677e910a03cc87dcf504b0f746",
+    "sha256": "91df1bb95118a6a8c11bba0460f5271d960e53f14bfeebcfe35dd640f0df60cf",
+    "size": 4354048,
+    "icon": "https://cwmoriarty.github.io/cpan.zip/packages/syndirstat/icon_256.png",
+    "thumbnail": [
+      "https://cwmoriarty.github.io/cpan.zip/packages/syndirstat/icon_256.png"
+    ],
+    "maintainer": "cwmoriarty",
+    "maintainer_url": "https://github.com/cwmoriarty/cpan.zip",
+    "distributor": "cwmoriarty",
+    "distributor_url": "https://cwmoriarty.github.io/cpan.zip/",
+    "changelog": "Initial release for arm64.",
+    "type": 0,
+    "category": "Utilities",
+    "beta": false,
+    "conflictpkgs": "",
+    "deppkgs": "",
+    "quarantine": false,
+    "arch": [
+      "arm64",
+      "rtd1296",
+      "rtd1619b"
+    ]
+  }
+]
